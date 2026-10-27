@@ -1,0 +1,6 @@
+{
+  "name":"health-timeline-sync","version":"0.2.0","private":true,"type":"module",
+  "scripts":{"dev":"vite --host 127.0.0.1","build":"vite build","preview":"vite preview","test":"node --test tests/*.test.js"},
+  "dependencies":{"@azure/msal-browser":"^4.0.0"},
+  "devDependencies":{"vite":"^7.0.0"}
+}
